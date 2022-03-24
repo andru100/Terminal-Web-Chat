@@ -1,0 +1,4 @@
+#!/bin/bash
+shopt -s expand_aliases
+alias nc="go run client.go"
+echo "client has installed successfully"
