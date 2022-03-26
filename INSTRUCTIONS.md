@@ -9,7 +9,7 @@ Optionally you can set your own port: **go run . 4444** will start a server on p
 
 In order to start the client app. <br/>
 Open a terminal session in the chat-client directory. <br/>
-Install it using the command: ** ** <br/>
+Install it using the command: **source ./installClient** <br/>
 You can run the chat client with default settings by typing **"nc"** <br/>
 This would use server address: localhost and port: 8989. <br/>
 In order to set custom address and port, use syntax **nc "server-address" "port"** <br/>
